@@ -27,6 +27,6 @@ To use or test the smart contract, follow these steps:
 
 ```bash
 git clone https://github.com/TeamAlphaCentauri/Alpha-Centauri-.git
-cd Alpha-Centauri-
+cd Alpha-Centauri
 
 npm install
